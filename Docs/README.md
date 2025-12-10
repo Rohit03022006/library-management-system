@@ -1,6 +1,8 @@
 # Library Management System - Complete Setup Guide
 A comprehensive, production-ready library management platform with a robust backend API and modern responsive frontend for managing library operations with advanced features including user authentication, book catalog management, borrowing system, and analytics.
-
+## Application Screenshots
+ 1. Landing Page
+ https://github.com/Rohit03022006/library-management-system/blob/main/Screenshot/Home.PNG
 
 ## Features
 
