@@ -2,7 +2,7 @@
 A comprehensive, production-ready library management platform with a robust backend API and modern responsive frontend for managing library operations with advanced features including user authentication, book catalog management, borrowing system, and analytics.
 ## Application Screenshots
  1. Landing Page
- ![Landing Page]([https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=600&fit=crop](https://github.com/Rohit03022006/library-management-system/blob/main/Screenshot/Home.PNG))
+ ![Landing Page]([https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=600&fit=crop](https://github.com/Rohit03022006/library-management-system/blob/main/Screenshot/Home.PNG?raw=true))
  
 ## Features
 
